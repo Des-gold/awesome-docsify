@@ -153,6 +153,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [code-segment](https://eveningwater.github.io/code-segment/#/) - Here is a collection of some code snippets, which may be from the Internet or from daily accumulation.
 - [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 - [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE Typescript project to JavaScript.
+- [帅的博客](https://www.kim6.cn/#/) -Record the growth path of a network worker （记录一个网工的成长之路）.
 
 ## Community Resources
 
